@@ -1,5 +1,7 @@
 # Intro to Git & GitHub
 
+![Octocat.](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+
 ### What is Git, and What is GitHub?
 
 Git is an open-source application written to help teams of people 
