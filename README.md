@@ -1,6 +1,5 @@
 # Intro to Git & GitHub
-
-![Octocat.](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+# And Why we love it!
 
 ### What is Git, and What is GitHub?
 
